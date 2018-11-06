@@ -1,2 +1,2 @@
 # Winsock_example
-Ecample for winsock library usage
+Example for winsock library usage
